@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StepCounter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_time_picker">TimePicker</string>
+    <string name="title_activity_alarm_time">AlarmTime</string>
+    <string name="title_activity_distance_calculator">DistanceCalculator</string>
+    <string name="title_activity_put_alarm_off">PutAlarmOff</string>
+</resources>
